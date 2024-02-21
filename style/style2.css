@@ -1,0 +1,19 @@
+
+.space{
+	height: 50px;
+}
+.developers{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	width: 90%;
+}
+.roshan{
+	flex: 1;
+}
+img.dev{
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+}
+
